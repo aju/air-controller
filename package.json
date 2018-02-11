@@ -1,0 +1,11 @@
+{
+  "name": "air-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "frontend-tools-configs": "git+https://github.com/brainly/frontend-tools-configs.git#v16.2.2",
+    "miio": "^0.15.5"
+  }
+}
